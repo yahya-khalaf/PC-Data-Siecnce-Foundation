@@ -1,0 +1,5 @@
+sudo -i -u postgres
+psql
+CREATE DATABASE testDB;
+DROP DATABASE testDB;
+CREATE DATABASE testDB;
